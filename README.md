@@ -44,7 +44,6 @@ Pulsa **Publicar cambios**. Cada publicación queda como un commit, así que tod
 
 ## Pendientes
 
-- [ ] **Número de WhatsApp** (pestaña General). Mientras esté vacío, el botón abre WhatsApp para que la persona elija el contacto.
 - [ ] Precios del reloj y las baterías. Hoy dicen «Consultar precio».
 - [ ] Fotos y logo originales. Las actuales son recortes de las piezas publicitarias.
 
