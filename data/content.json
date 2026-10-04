@@ -1,0 +1,139 @@
+{
+  "site": {
+    "name": "AL Importaciones",
+    "tagline": "Tecnología • Estilo • Para ti",
+    "description": "AL Importaciones: audífonos, relojes inteligentes, baterías y accesorios de tecnología con envíos a todo el país. Compra fácil por WhatsApp.",
+    "logo": "assets/img/logo-mark.jpg",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/alimportaciones/",
+    "instagramHandle": "@alimportaciones",
+    "buyMessage": "Hola AL Importaciones 👋 Quiero comprar:\n• {producto}{opcion}\n• Cantidad: {cantidad}\n• Precio: {precio}\n\n¿Me confirmas disponibilidad?",
+    "askMessage": "Hola AL Importaciones 👋 Quiero más información.",
+    "footerText": "Tecnología que te acompaña en cada momento."
+  },
+  "hero": {
+    "eyebrow": "Tecnología • Estilo • Para ti",
+    "script": "Calidad y confianza",
+    "title": "Los mejores productos, en un solo lugar",
+    "text": "Audífonos, relojes inteligentes, baterías y accesorios con envío a todo el país. Elige tu producto y compra directo por WhatsApp.",
+    "button": "Ver productos",
+    "image": "assets/img/banner.jpg"
+  },
+  "benefits": [
+    { "icon": "truck", "title": "Envíos a todo el país" },
+    { "icon": "shield", "title": "Calidad garantizada" },
+    { "icon": "card", "title": "Pagos seguros" },
+    { "icon": "headset", "title": "Atención personalizada" },
+    { "icon": "diamond", "title": "Garantía en todos nuestros productos" }
+  ],
+  "catalog": {
+    "eyebrow": "Catálogo",
+    "title": "Nuestros productos",
+    "text": "Toca un producto para ver sus detalles. Al pulsar «Comprar» te llevamos a WhatsApp con el pedido listo."
+  },
+  "spotlight": {
+    "show": true,
+    "script": "La experiencia Pro, en tus manos",
+    "secondScript": "Tu música, sin límites"
+  },
+  "products": [
+    {
+      "name": "AirPods Pro 2",
+      "subtitle": "Calidad 1.1 Premium",
+      "category": "Audífonos",
+      "price": "89900",
+      "oldPrice": "",
+      "badge": "Precio especial",
+      "available": true,
+      "featured": true,
+      "description": "Sonido, tecnología y comodidad en un solo lugar. Cancelación activa de ruido, modo transparencia y audio espacial para disfrutar cada detalle de tu música.",
+      "images": [
+        "assets/img/productos/airpods-pro-2.jpg",
+        "assets/img/productos/airpods-banner.jpg",
+        "assets/img/productos/airpods-detalle-1.jpg",
+        "assets/img/productos/airpods-detalle-3.jpg",
+        "assets/img/productos/airpods-detalle-4.jpg",
+        "assets/img/productos/airpods-pro-2-flyer.jpg"
+      ],
+      "options": [],
+      "features": [
+        { "icon": "wave", "title": "Cancelación activa de ruido (ANC)", "text": "Aísla el ruido y disfruta de tu música sin distracciones." },
+        { "icon": "user", "title": "Modo transparencia", "text": "Escucha tu entorno sin quitarte los audífonos." },
+        { "icon": "spatial", "title": "Audio espacial", "text": "Sonido envolvente que te sumerge en cada detalle." },
+        { "icon": "touch", "title": "Control táctil inteligente", "text": "Reproduce, pausa, cambia de canción y ajusta el volumen con un toque." },
+        { "icon": "bluetooth", "title": "Bluetooth 5.3", "text": "Conexión más rápida, estable y sin interrupciones." },
+        { "icon": "battery", "title": "Hasta 6 horas de reproducción", "text": "Con una sola carga. Hasta 30 horas con el estuche." },
+        { "icon": "drop", "title": "Resistentes al sudor y salpicaduras", "text": "Ideales para entrenamientos y actividades diarias (IPX4)." },
+        { "icon": "phone", "title": "Compatibles con iPhone y Android", "text": "Conéctalos sin complicaciones a todos tus dispositivos." }
+      ],
+      "highlights": [
+        { "image": "assets/img/productos/airpods-detalle-1.jpg", "title": "Almohadillas de silicona", "text": "Intercambiables para un ajuste perfecto." },
+        { "image": "assets/img/productos/airpods-detalle-2.jpg", "title": "Sonido de alta fidelidad", "text": "Graves potentes y audio nítido." },
+        { "image": "assets/img/productos/airpods-detalle-3.jpg", "title": "Estuche de carga inalámbrica y por cable", "text": "Más comodidad, siempre listo." },
+        { "image": "assets/img/productos/airpods-detalle-4.jpg", "title": "Conexión instantánea", "text": "Se vinculan automáticamente con tus dispositivos." }
+      ]
+    },
+    {
+      "name": "Reloj inteligente",
+      "subtitle": "Estilo y tecnología en tu muñeca",
+      "category": "Relojes",
+      "price": "",
+      "oldPrice": "",
+      "badge": "",
+      "available": true,
+      "featured": false,
+      "description": "Escríbenos por WhatsApp para conocer modelos, colores, características y precio.",
+      "images": ["assets/img/productos/reloj.jpg"],
+      "options": [],
+      "features": [],
+      "highlights": []
+    },
+    {
+      "name": "Batería magnética inalámbrica",
+      "subtitle": "Carga tu celular sin cables",
+      "category": "Baterías y cargadores",
+      "price": "",
+      "oldPrice": "",
+      "badge": "",
+      "available": true,
+      "featured": false,
+      "description": "Se adhiere magnéticamente a tu celular para cargarlo donde estés. Escríbenos para conocer capacidad, compatibilidad y precio.",
+      "images": ["assets/img/productos/bateria-magsafe.jpg"],
+      "options": [],
+      "features": [],
+      "highlights": []
+    },
+    {
+      "name": "Baterías portátiles",
+      "subtitle": "Energía para todo el día",
+      "category": "Baterías y cargadores",
+      "price": "",
+      "oldPrice": "",
+      "badge": "",
+      "available": true,
+      "featured": false,
+      "description": "Varios modelos y colores disponibles. Escríbenos para conocer capacidad y precio.",
+      "images": ["assets/img/productos/powerbanks.jpg"],
+      "options": ["Blanco", "Negro"],
+      "features": [],
+      "highlights": []
+    }
+  ],
+  "trust": {
+    "slogan": "Tu compra, nuestra prioridad",
+    "items": [
+      { "icon": "shield", "title": "Garantía 6 meses", "text": "1 año en compras al por mayor." },
+      { "icon": "truck", "title": "Envíos a todo el país", "text": "Recibe tu pedido donde estés." },
+      { "icon": "card", "title": "Pagos seguros", "text": "Compra con total confianza." },
+      { "icon": "headset", "title": "Atención personalizada", "text": "Te asesoramos por WhatsApp antes y después de tu compra." }
+    ]
+  },
+  "wholesale": {
+    "show": true,
+    "script": "¿Vendes tecnología?",
+    "title": "Compras al por mayor",
+    "text": "Precios especiales para revendedores y garantía de 1 año en compras al por mayor. Escríbenos para conocer precios y disponibilidad.",
+    "button": "Cotizar al por mayor",
+    "message": "Hola AL Importaciones 👋 Quiero información de precios al por mayor."
+  }
+}
